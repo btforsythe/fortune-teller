@@ -2,8 +2,7 @@
 public class FortuneTellerApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Your future is code.");
 	}
 
 }
